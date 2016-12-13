@@ -11,6 +11,7 @@
 #### [lodash](https://github.com/lodash/lodash)
 #### [mongoose](http://mongoosejs.com/docs/guide.html)
 #### [request](https://github.com/request/request)
+#### [async](http://caolan.github.io/async/)
 
 ## To Start Server
 #### run `mongod`
