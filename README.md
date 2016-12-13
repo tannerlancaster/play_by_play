@@ -13,8 +13,8 @@
 #### [request](https://github.com/request/request)
 
 ## To Start Server
-### run `mongod`
-### run `node servername.js` (to start just that server)
-### run `nodemon server_name.js` (watch files for changes)
-### run `forever start server_name.js` (can start multiple files)
-### run `forever stop server_name.js` or `forever stopall`
+#### run `mongod`
+#### run `node servername.js` (to start just that server)
+#### run `nodemon server_name.js` (watch files for changes)
+#### run `forever start server_name.js` (can start multiple files)
+#### run `forever stop server_name.js` or `forever stopall`
